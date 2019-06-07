@@ -1,4 +1,6 @@
 import math
+
+
 class Controllore_Proporzionale:
 
     def __init__(self,KP):
