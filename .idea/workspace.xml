@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cfff150-b2de-41e5-8bae-55fd43b91451" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/phidias-master/samples/10_aeroplano.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/PID.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/System.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/main_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phidias-master/samples/10_aeroplano_prof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phidias-master/samples/Esercitazione/02_Esercitazione.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,26 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phidias-master/samples/extract_min.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phidias-master/samples/Esercitazione/02_Esercitazione.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phidias-master/samples/calc_max.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="26" column="12" lean-forward="true" selection-start-line="24" selection-end-line="27" selection-end-column="24" />
-              <folding>
-                <element signature="e#7#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="369">
+              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -40,30 +30,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phidias-master/samples/09_Parcheggio_phidias.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-665">
-              <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="25" />
+            <state>
+              <caret selection-end-line="2" selection-end-column="1" />
               <folding>
                 <element signature="e#7#34#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/phidias-master/samples/10_aeroplano.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phidias-master/samples/hello_world.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -98,6 +71,13 @@
         <option value="$PROJECT_DIR$/09_Parcheggio_phidias.py" />
         <option value="$PROJECT_DIR$/phidias-master/samples/09_Parcheggio_phidias.py" />
         <option value="$PROJECT_DIR$/phidias-master/samples/10_aeroplano.py" />
+        <option value="$PROJECT_DIR$/phidias-master/samples/10_aeroplano_prof.py" />
+        <option value="$PROJECT_DIR$/Esercitazioni/System.py" />
+        <option value="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/main.py" />
+        <option value="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/PID.py" />
+        <option value="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/main_2.py" />
+        <option value="$PROJECT_DIR$/phidias-master/samples/02_Esercitazione.py" />
+        <option value="$PROJECT_DIR$/phidias-master/samples/Esercitazione/02_Esercitazione.py" />
       </list>
     </option>
   </component>
@@ -118,6 +98,17 @@
             <path>
               <item name="Sistemi_Robotici" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sistemi_Robotici" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sistemi_Robotici" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sistemi_Robotici" type="462c0819:PsiDirectoryNode" />
+              <item name="Esercitazioni" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sistemi_Robotici" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sistemi_Robotici" type="462c0819:PsiDirectoryNode" />
+              <item name="Esercitazioni" type="462c0819:PsiDirectoryNode" />
+              <item name="seconda_esercitazione" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Sistemi_Robotici" type="b2602c69:ProjectViewProjectNode" />
@@ -152,7 +143,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/phidias-master/samples/Esercitazione" />
       <recent name="$PROJECT_DIR$/phidias-master/samples" />
+      <recent name="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -168,8 +161,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.calc_max">
-    <configuration name="04_Controllore_Proporzionale" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.02_Esercitazione">
+    <configuration name="02_Esercitazione" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Sistemi_Robotici" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,56 +170,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/bin/python3.6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/phidias-master/samples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Controllore_Proporzionale.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="05_Controllore_prop_Sat" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Sistemi_Robotici" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Controllore_prop_Sat.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="06_Controllore_prop_int" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Sistemi_Robotici" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Controllore_prop_int.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phidias-master/samples/Esercitazione/02_Esercitazione.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -301,13 +250,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sistemi_Robotici" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sistemi_Robotici" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/main_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02_Esercitazione" />
+        <item itemvalue="Python.main_2" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.calc_max" />
         <item itemvalue="Python.07_Odometria_Robot_Mobile" />
-        <item itemvalue="Python.06_Controllore_prop_int" />
-        <item itemvalue="Python.05_Controllore_prop_Sat" />
-        <item itemvalue="Python.04_Controllore_Proporzionale" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +336,13 @@
       <workItem from="1559918981381" duration="423000" />
       <workItem from="1560325020115" duration="4972000" />
       <workItem from="1560415646454" duration="4000" />
-      <workItem from="1560497100856" duration="4459000" />
+      <workItem from="1560497100856" duration="4698000" />
+      <workItem from="1560505247812" duration="455000" />
+      <workItem from="1560512682085" duration="47000" />
+      <workItem from="1560926214862" duration="6000" />
+      <workItem from="1560927133151" duration="192000" />
+      <workItem from="1560929742465" duration="5234000" />
+      <workItem from="1561458508345" duration="2664000" />
     </task>
     <task id="LOCAL-00001" summary="Esercitazione su phidias">
       <created>1560329961754</created>
@@ -352,23 +351,30 @@
       <option name="project" value="LOCAL" />
       <updated>1560329961754</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aggiunto esercizio su posti AeroPlano">
+      <created>1560501611363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560501611363</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24774000" />
+    <option name="totallyTimeSpent" value="33611000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="0" y="54" width="1280" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15882678" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17017828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997233" weight="0.3099352" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -376,12 +382,12 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002767" side_tool="true" weight="0.31034482" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3586054" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.6004427" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -392,7 +398,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Esercitazione su phidias" />
-    <option name="LAST_COMMIT_MESSAGE" value="Esercitazione su phidias" />
+    <MESSAGE value="Aggiunto esercizio su posti AeroPlano" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiunto esercizio su posti AeroPlano" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Sistemi_Robotici$Python3.coverage" NAME="Python3 Coverage Results" MODIFIED="1556355643405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
@@ -400,26 +407,15 @@
     <SUITE FILE_PATH="coverage/Sistemi_Robotici$07_Odometria_Robot_Mobile.coverage" NAME="07_Odometria_Robot_Mobile Coverage Results" MODIFIED="1556543463432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Sistemi_Robotici$06_Controllore_prop_int.coverage" NAME="06_Controllore_prop_int Coverage Results" MODIFIED="1556543347951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Sistemi_Robotici$03_esercizio_esame.coverage" NAME="03_esercizio_esame Coverage Results" MODIFIED="1556437194778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sistemi_Robotici$02_Esercitazione.coverage" NAME="02_Esercitazione Coverage Results" MODIFIED="1560933907982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/phidias-master/samples" />
     <SUITE FILE_PATH="coverage/Sistemi_Robotici$04_Controllore_Proporzionale.coverage" NAME="04_Controllore_Proporzionale Coverage Results" MODIFIED="1556448608865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Sistemi_Robotici$calc_max.coverage" NAME="calc_max Coverage Results" MODIFIED="1560498805160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/phidias-master/samples" />
+    <SUITE FILE_PATH="coverage/Sistemi_Robotici$main.coverage" NAME="main Coverage Results" MODIFIED="1560930648506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione" />
     <SUITE FILE_PATH="coverage/Sistemi_Robotici$05_Controllore_prop_Sat.coverage" NAME="05_Controllore_prop_Sat Coverage Results" MODIFIED="1556475068784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Sistemi_Robotici$01_Robot.coverage" NAME="01_Robot Coverage Results" MODIFIED="1556383114030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sistemi_Robotici$main_2.coverage" NAME="main_2 Coverage Results" MODIFIED="1560933880882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Esercitazioni/seconda_esercitazione" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03_esercizio_esame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_braccio_meccanico.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="3" selection-start-line="23" selection-end-line="32" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05_Controllore_prop_Sat.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -471,13 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Utils/controllers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Utils/Robot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -518,12 +507,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phidias-master/samples/extract_min.py">
+    <entry file="file://$PROJECT_DIR$/phidias-master/samples/10_aeroplano_prof.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="1249">
+          <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#7#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phidias-master/samples/10_aeroplano.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="29" column="87" selection-start-line="29" selection-start-column="86" selection-end-line="29" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -534,30 +533,103 @@
     <entry file="file://$PROJECT_DIR$/phidias-master/samples/calc_max.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="26" column="12" lean-forward="true" selection-start-line="24" selection-end-line="27" selection-end-column="24" />
+          <caret line="26" column="12" selection-start-line="24" selection-end-line="27" selection-end-column="24" />
           <folding>
             <element signature="e#7#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/phidias-master/samples/extract_min.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_braccio_meccanico.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_esercizio_esame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/System.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/controllers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="43" selection-start-line="43" selection-end-line="53" selection-end-column="21" />
+          <folding>
+            <element signature="e#305#1035#0" />
+            <element signature="e#1083#1394#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/PID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Esercitazioni/seconda_esercitazione/main_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/phidias-master/samples/09_Parcheggio_phidias.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-665">
-          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="25" />
+        <state>
+          <caret selection-end-line="2" selection-end-column="1" />
           <folding>
             <element signature="e#7#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phidias-master/samples/10_aeroplano.py">
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/phidias/Lib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="191">
+          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phidias-master/samples/Esercitazione/02_Esercitazione.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
         </state>
       </provider>
     </entry>
